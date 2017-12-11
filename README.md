@@ -57,6 +57,7 @@ Thanks to all contributors that send to me information about libraries, tools, p
 
 If you'd like to support Android Arsenal development, you could make some donations here:
 
+* [![Backers on Open Collective](https://opencollective.com/android-arsenal/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/android-arsenal/sponsors/badge.svg)](#sponsors) 
 * [![PayPal](https://img.shields.io/badge/PayPal-VladislavBauer-blue.svg?style=flat)](https://www.paypal.me/VladislavBauer)
 * [![Gratipay](http://img.shields.io/gratipay/vbauer.svg)](https://gratipay.com/vbauer)
 
@@ -1236,4 +1237,34 @@ Thank you very much in advance!
 ### Video (2)
 * [Kickflip](https://github.com/Kickflip/kickflip-android-sdk)
 * [Vitamio](https://github.com/yixia/VitamioBundle)
+
+
+## Contributors
+
+This project exists thanks to all the people who contribute. [[Contribute]](CONTRIBUTING.md).
+<a href="graphs/contributors"><img src="https://opencollective.com/android-arsenal/contributors.svg?width=890" /></a>
+
+
+## Backers
+
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/android-arsenal#backer)]
+
+<a href="https://opencollective.com/android-arsenal#backers" target="_blank"><img src="https://opencollective.com/android-arsenal/backers.svg?width=890"></a>
+
+
+## Sponsors
+
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/android-arsenal#sponsor)]
+
+<a href="https://opencollective.com/android-arsenal/sponsor/0/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/1/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/2/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/3/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/4/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/5/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/6/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/7/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/8/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/android-arsenal/sponsor/9/website" target="_blank"><img src="https://opencollective.com/android-arsenal/sponsor/9/avatar.svg"></a>
+
 
